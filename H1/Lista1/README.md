@@ -23,15 +23,15 @@ Exercicio 3
 - f)
 
 Exercicio 4
-  Cada retorno é usado em um codigo status diferente sendo:
+Cada retorno é usado em um codigo status diferente sendo:
 - OK() = 200
 - BadRequest() = 400
 - NotFound() = 404
 
 Exercicio 5
-- https:// -- Protocolo de internet com segurança por causa do s
-- minhaapi.com.br -- rota do dominio com o br no final indicando estar no brasil e com é padrão
-- /api/vendas -- Controller chamador vendas que se for get esta sem parametro ou pode estar levando 
+- https:// -> Protocolo de internet com segurança por causa do s
+- minhaapi.com.br -> rota do dominio com o br no final indicando estar no brasil e com é padrão
+- /api/vendas -> Controller chamador vendas que se for get esta sem parametro ou pode estar levando 
   no body do request com outro protocolo http.
 • OBS: api pode ou ser uma pasta no servidor ou como vimos na aula passada pode ser configurada no controller
        independente é sempre bom configurar a  rota seja no controller ou não
