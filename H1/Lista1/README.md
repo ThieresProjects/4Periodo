@@ -24,7 +24,7 @@ Exercicio 3
 - c) GET
 - d) GET
 - e) PUT => (PUT or PATCH)
-- f) POST => (POST or PUT or PATCH)
+- f) PUT => (POST or PUT or PATCH)
 - Cada um possui um situação a verificar pois pode ser que queira lançar a nota com apenas gois parametros ou as vezes
   com um objeto inteiro, ou pra confundir recebe um post e faz a alteração o sql podendo haver casos e casos
 
