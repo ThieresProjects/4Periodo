@@ -11,17 +11,22 @@ Exercicio 2
      - Os models são modelos de objetos trasidos nos json para ser apresentados na view
      - Os controller são funções da web que são chamadas na url e retornam uma view para quem chamar a url
      - Os controllers herdam as caracteristas base de um controller e a congurações para se chamado na web
-    
+     
 - b)
-- c)° O swagger é uma ferramenta que auxilia no desenvolmento de API's ajudando a visualizar e ate modificar 
+     - Os navegadores pro padrão já executam o metodo GET e os demais methodos como por exemplo o POST são enviados
+       atravez do Body do Request o que tambem previne garantindo a segurança das informações
+- c) 
+     - O swagger é uma ferramenta que auxilia no desenvolmento de API's ajudando a visualizar e ate modificar 
 
 Exercicio 3
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
+- a) POST =>  (POST or PUT)
+- b) DELETE
+- c) GET
+- d) GET
+- e) PUT => (PUT or PATCH)
+- f) POST => (POST or PUT or PATCH)
+- Cada um possui um situação a verificar pois pode ser que queira lançar a nota com apenas gois parametros ou as vezes
+  com um objeto inteiro, ou pra confundir recebe um post e faz a alteração o sql podendo haver casos e casos
 
 Exercicio 4
 Cada retorno é usado em um codigo status diferente sendo:
