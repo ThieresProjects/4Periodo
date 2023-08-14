@@ -7,7 +7,8 @@ Exercicio 1
 - Back End: ASP.NET FRAMEWORK
   
 Exercicio 2
-- a)° Os models são modelos de objetos trasidos nos json para ser apresentados na view
+- a)
+     - Os models são modelos de objetos trasidos nos json para ser apresentados na view
      - Os controller são funções da web que são chamadas na url e retornam uma view para quem chamar a url
      - Os controllers herdam as caracteristas base de um controller e a congurações para se chamado na web
     
