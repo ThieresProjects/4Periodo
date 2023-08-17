@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RsO5Ij1vYSsOPDAJ2OkF+tCy7183xuyneQLDVi1sfMqNz3aaeGCmpIDpqyRvx443iFW4oKO1t77fiQO8KSNLpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Infra\\Pratica.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thieresalmeida\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\thieresalmeida\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

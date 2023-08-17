@@ -1,0 +1,12 @@
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\bin\Debug\net6.0\Pratica.Service.deps.json
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\bin\Debug\net6.0\Pratica.Service.dll
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\bin\Debug\net6.0\ref\Pratica.Service.dll
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\bin\Debug\net6.0\Pratica.Service.pdb
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\obj\Debug\net6.0\Pratica.Service.csproj.AssemblyReference.cache
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\obj\Debug\net6.0\Pratica.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\obj\Debug\net6.0\Pratica.Service.AssemblyInfoInputs.cache
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\obj\Debug\net6.0\Pratica.Service.AssemblyInfo.cs
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\obj\Debug\net6.0\Pratica.Service.csproj.CoreCompileInputs.cache
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\obj\Debug\net6.0\Pratica.Service.dll
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\obj\Debug\net6.0\ref\Pratica.Service.dll
+C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Service\obj\Debug\net6.0\Pratica.Service.pdb
