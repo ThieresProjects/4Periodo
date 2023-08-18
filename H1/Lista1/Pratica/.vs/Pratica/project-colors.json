@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb40c091-7c01-4411-9cb8-e0a957f2a564": {
+      "ProjectGuid": "cb40c091-7c01-4411-9cb8-e0a957f2a564",
+      "DisplayName": "Pratica.Domain",
+      "ColorIndex": 0
+    },
+    "690fc861-9449-44a5-8419-a474a17f238c": {
+      "ProjectGuid": "690fc861-9449-44a5-8419-a474a17f238c",
+      "DisplayName": "3.1-Data",
+      "ColorIndex": 1
+    },
+    "c9149fec-c30a-4a06-a1e4-51f8a22f7800": {
+      "ProjectGuid": "c9149fec-c30a-4a06-a1e4-51f8a22f7800",
+      "DisplayName": "Pratica.Data",
+      "ColorIndex": 2
+    },
+    "9c293478-feee-4eb9-912d-f120b851be86": {
+      "ProjectGuid": "9c293478-feee-4eb9-912d-f120b851be86",
+      "DisplayName": "Pratica.Service",
+      "ColorIndex": 3
+    },
+    "a80151ec-99ca-408a-8242-314974bf86eb": {
+      "ProjectGuid": "a80151ec-99ca-408a-8242-314974bf86eb",
+      "DisplayName": "Pratica.WebApi",
+      "ColorIndex": 4
+    },
+    "1540e423-b113-44bc-b9fb-3b447d30b33f": {
+      "ProjectGuid": "1540e423-b113-44bc-b9fb-3b447d30b33f",
+      "DisplayName": "3.2-Files",
+      "ColorIndex": 5
+    },
+    "32a8510a-451b-4b64-88e3-4c7ba202ee04": {
+      "ProjectGuid": "32a8510a-451b-4b64-88e3-4c7ba202ee04",
+      "DisplayName": "Pratica.Infra",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 7
+}
