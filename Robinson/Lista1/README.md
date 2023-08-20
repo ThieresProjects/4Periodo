@@ -1,2 +1,1 @@
-# Lista de Exercícios – Modelagem
-01 - Entidade: 😊
+# Lista de Exercícios – Modelagem 👍
