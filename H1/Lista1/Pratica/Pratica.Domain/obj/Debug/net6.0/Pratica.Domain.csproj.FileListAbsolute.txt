@@ -10,3 +10,15 @@ C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Prati
 C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\Pratica.Domain.dll
 C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\ref\Pratica.Domain.dll
 C:\Users\thieresalmeida\Desktop\044987\Projetos\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\Pratica.Domain.pdb
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\bin\Debug\net6.0\Pratica.Domain.deps.json
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\bin\Debug\net6.0\Pratica.Domain.dll
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\bin\Debug\net6.0\Pratica.Domain.pdb
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\Pratica.Domain.csproj.AssemblyReference.cache
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\Pratica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\Pratica.Domain.AssemblyInfoInputs.cache
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\Pratica.Domain.AssemblyInfo.cs
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\Pratica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\Pratica.Domain.dll
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\refint\Pratica.Domain.dll
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\Pratica.Domain.pdb
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Domain\obj\Debug\net6.0\ref\Pratica.Domain.dll

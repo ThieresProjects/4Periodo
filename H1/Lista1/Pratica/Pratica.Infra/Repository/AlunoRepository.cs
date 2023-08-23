@@ -8,12 +8,24 @@ namespace Pratica.Infra
     {
         public Aluno GetOne(int Id)
         {
-            return new Aluno();
+            return new Aluno() {
+                Email = "tese",
+                Nome = "th",
+                RA = "111",
+                CPF = "12",
+                Ativo = 0
+            };
         }
 
         public IEnumerable<Aluno> GetAll()
         {
-            return new List<Aluno>();
+            return new List<Aluno>() { new Aluno() {
+                Email = "tese",
+                Nome = "th",
+                RA = "111",
+                CPF = "12",
+                Ativo = 0
+            } };
         }
 
 

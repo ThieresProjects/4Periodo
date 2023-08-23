@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Service\\Pratica.Service.csproj": {}
+    "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Service\\Pratica.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\Pratica.Domain.csproj": {
+    "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\Pratica.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\Pratica.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\Pratica.Domain.csproj",
         "projectName": "Pratica.Domain",
-        "projectPath": "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\Pratica.Domain.csproj",
-        "packagesPath": "C:\\Users\\thieresalmeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\obj\\",
+        "projectPath": "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\Pratica.Domain.csproj",
+        "packagesPath": "C:\\Users\\thier_2gt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\thieresalmeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thier_2gt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +43,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
             }
           },
           "imports": [
@@ -54,33 +55,45 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Service\\Pratica.Service.csproj": {
+    "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Service\\Pratica.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Service\\Pratica.Service.csproj",
+        "projectUniqueName": "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Service\\Pratica.Service.csproj",
         "projectName": "Pratica.Service",
-        "projectPath": "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Service\\Pratica.Service.csproj",
-        "packagesPath": "C:\\Users\\thieresalmeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Service\\obj\\",
+        "projectPath": "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Service\\Pratica.Service.csproj",
+        "packagesPath": "C:\\Users\\thier_2gt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\thieresalmeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thier_2gt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,8 +107,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\Pratica.Domain.csproj": {
-                "projectPath": "C:\\Users\\thieresalmeida\\Desktop\\044987\\Projetos\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\Pratica.Domain.csproj"
+              "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\Pratica.Domain.csproj": {
+                "projectPath": "C:\\Users\\thier_2gt\\Source\\Repos\\ThieresProjects\\4Periodo\\H1\\Lista1\\Pratica\\Pratica.Domain\\Pratica.Domain.csproj"
               }
             }
           }
@@ -109,22 +122,43 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,23 +9,20 @@ namespace Pratica.WebApi.Controllers
 {
     public class AlunoController : ControllerBase
     {
-        private readonly MapperConfiguration _config;
         private readonly IMapper _mapper;
         private readonly IAlunoService _alunoService;
 
-        public AlunoController(IAlunoService alunoService)
+        public AlunoController(IAlunoService alunoService, IMapper mapper)
         {
+            _mapper = mapper;
             _alunoService = alunoService;
-            _config = new MapperConfiguration(cfg => cfg.AddProfile<MappingProfile>());
-            _mapper = _config.CreateMapper();
         }
 
         [HttpGet]
         [Route("Alunos/Get")]
         public IEnumerable<AlunoViewModel> Get()
         {
-            //return _mapper.Map<IEnumerable<AlunoViewModel>>(_alunoService.GetAll());
-            return new List<AlunoViewModel>();
+            return _mapper.Map<IEnumerable<AlunoViewModel>>(_alunoService.GetAll());
         }
         [Route("Alunos/{Id}")]
         [HttpGet]

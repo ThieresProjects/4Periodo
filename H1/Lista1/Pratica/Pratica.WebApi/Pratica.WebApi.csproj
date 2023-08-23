@@ -11,12 +11,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
     <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.9" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Pratica.Domain\Pratica.Domain.csproj" />
+    <ProjectReference Include="..\Pratica.Infra\Pratica.Infra.csproj" />
+    <ProjectReference Include="..\Pratica.Service\Pratica.Service.csproj" />
   </ItemGroup>
 
 </Project>

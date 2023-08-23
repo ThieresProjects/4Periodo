@@ -1,0 +1,15 @@
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\bin\Debug\net6.0\Pratica.Infra.deps.json
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\bin\Debug\net6.0\Pratica.Infra.dll
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\bin\Debug\net6.0\Pratica.Infra.pdb
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\bin\Debug\net6.0\Pratica.Domain.dll
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\bin\Debug\net6.0\Pratica.Domain.pdb
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\obj\Debug\net6.0\Pratica.Infra.csproj.AssemblyReference.cache
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\obj\Debug\net6.0\Pratica.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\obj\Debug\net6.0\Pratica.Infra.AssemblyInfoInputs.cache
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\obj\Debug\net6.0\Pratica.Infra.AssemblyInfo.cs
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\obj\Debug\net6.0\Pratica.Infra.csproj.CoreCompileInputs.cache
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\obj\Debug\net6.0\Pratica.Infra.csproj.CopyComplete
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\obj\Debug\net6.0\Pratica.Infra.dll
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\obj\Debug\net6.0\refint\Pratica.Infra.dll
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\obj\Debug\net6.0\Pratica.Infra.pdb
+C:\Users\thier_2gt\Source\Repos\ThieresProjects\4Periodo\H1\Lista1\Pratica\Pratica.Infra\obj\Debug\net6.0\ref\Pratica.Infra.dll
