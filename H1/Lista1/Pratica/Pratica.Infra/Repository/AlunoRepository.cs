@@ -6,6 +6,15 @@ namespace Pratica.Infra
 {
     public class AlunoRepository : IRepositoryBase<Aluno>, IAlunoRepository
     {
+        private readonly string _filePath;
+        private readonly string _jsonContent;
+
+        AlunoRepository()
+        {
+            _filePath = Path.Combine(Directory.GetParent(AppContext.BaseDirectory).Parent.FullName, "Pratica.Infra", "Data", "alunos.json");
+            _jsonContent = File.ReadAllText(_filePath);
+        }
+
         public Aluno GetOne(int Id)
         {
             return new Aluno() {
