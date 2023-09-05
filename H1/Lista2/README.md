@@ -15,7 +15,7 @@ Questão 4: OK(): OK ou Código 200 é retornado quando a operação foi um suce
 
 Questão 5: https:// Significa que sua API está usando o protocolo HTTP com criptografia minhaapi.com.br é o nome do domínio onde sua api está sendo hospedada. /api/vendas é o local/ subdiretório onde ela está localizada, basicamente o local específico.
 
-============================================================================================ ATIVIDADE 2
+> ATIVIDADE 2
 
 QUESTÃO 1 – 1 – Com a inserção de informações inválidas ou mal formatadas no sistema o risco na qualidade dos dados armazenados e o risco de erros e inconsistências nos sistemas são altos, para prevenir isso a validação da Integridade dos Dados é de extrema importância; 2 – Quando os dados são validados desde o início e sua estruturação é feita de forma correta, a sua manutenção se torna mais fácil e rápida de se fazer; 3 – A validação de dados é de suma importância para a prevenção de erros lógicos que podem ocorrer quando dados inválidos são usados são inseridos incorretamente no sistema
 
