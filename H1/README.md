@@ -1,8 +1,8 @@
 # Desenvolvimento de Aplicativos Web e Cloud Computing 💻
-> LInguagens:
+| > LInguagens: | > Desing de Software: |
+----------------------------|--------
+| `ASP.NET MVC - API & APP` | `DDD` |
 
-  `ASP.NET MVC - API & APP`
 
-> Desing de Software:
 
-  `DDD`
+  
