@@ -1,4 +1,5 @@
-# Projeto e Arquitetura de Banco de Dados ![image](https://github.com/ThieresProjects/4Periodo/assets/141860847/941eae90-0872-4152-aa12-6052cca33272)
+# Projeto e Arquitetura de Banco de Dados ![image](https://github.com/ThieresProjects/4Periodo/assets/141860847/1e715cd1-1a7b-4ca1-a944-828d5f47e75f)
+
 
 > Linguagem:
   `SQL`
