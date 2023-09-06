@@ -1,10 +1,10 @@
 # Desenvolvimento de Aplicativos Web e Cloud Computing 💻
-> LInguagens
+> LInguagens:
  `ASP.NET MVC - API & APP`
 
->  Desing de Software
+>  Desing de Software:
  `DDD`
 
-> Compilador
+> Compilador:
 `Visual Studio`
 `Visual Studio Code`
