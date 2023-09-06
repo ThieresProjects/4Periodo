@@ -1,4 +1,8 @@
 # Desenvolvimento de Aplicativos Web e Cloud Computing 💻
-> LInguagens:  \`ASP.NET MVC`
+> LInguagens:
 
-> Desing de Software: \n`DDD`
+  `ASP.NET MVC`
+
+> Desing de Software:
+
+  `DDD`
