@@ -1,2 +1,2 @@
 # 4º Periodo
-`C#` `ASP.NET` `React.js` `DDD`
+`ASP.NET(C#)` `React.js` `SQL Server` `DDD - Domain driven design`
