@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\H1",
+    "\\H1\\Lista3",
+    "\\H1\\Lista3\\API",
+    "\\H1\\Lista3\\API\\MS"
   ],
-  "SelectedNode": "\\Pratica.sln",
+  "SelectedNode": "\\H1\\Lista3\\API\\MS\\MS.sln",
   "PreviewInSolutionExplorer": false
 }
