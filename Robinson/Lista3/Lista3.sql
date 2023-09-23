@@ -91,9 +91,9 @@ DELETE FROM Robinho.Equino
 --ROLLBACK CCOMMITT
 
 
--- Este delete apaga todos os dados da tabela e é o famoso delete sem where que se fosse em uma empresa daria BO pos ele limpa a tabela
--- O begin tran ajuda a ter um backup para se algo der errado você possa dar um rollback e se tiver tudo okay mandar o commit
--- Commit esta escrito de forma errada propositalmente para ter que selecionar-lo para fazer a alteração
+-- Este delete apaga todos os dados da tabela e Ã© o famoso delete sem where que se fosse em uma empresa daria BO pos ele limpa a tabela
+-- O begin tran ajuda a ter um backup para se algo der errado vocÃª possa dar um rollback e se tiver tudo okay mandar o commit
+-- Commit esta escrito de forma errada propositalmente para ter que selecionar-lo para fazer a alteraÃ§Ã£o
 
 --Exec 6
 
@@ -115,4 +115,4 @@ DECLARE @cpf char(11) = ''/* CPF */
 SELECT * FROM Robinho.Pessoa WHERE CPF = @cpf
 -- Substitua o campo da variavel para utilizar o select
 
-
+--Exec 9
