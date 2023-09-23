@@ -273,11 +273,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_Repository\\4Periodo\\H1\\Lista3\\API\\MS\\MS.WebApi\\MS.WebApi.csproj",
+      "projectUniqueName": "C:\\_Repository\\4Periodo\\H1\\Revisao1\\API\\MS\\MS.WebApi\\MS.WebApi.csproj",
       "projectName": "MS.WebApi",
-      "projectPath": "C:\\_Repository\\4Periodo\\H1\\Lista3\\API\\MS\\MS.WebApi\\MS.WebApi.csproj",
+      "projectPath": "C:\\_Repository\\4Periodo\\H1\\Revisao1\\API\\MS\\MS.WebApi\\MS.WebApi.csproj",
       "packagesPath": "C:\\Users\\thier_2gt\\.nuget\\packages\\",
-      "outputPath": "C:\\_Repository\\4Periodo\\H1\\Lista3\\API\\MS\\MS.WebApi\\obj\\",
+      "outputPath": "C:\\_Repository\\4Periodo\\H1\\Revisao1\\API\\MS\\MS.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thier_2gt\\AppData\\Roaming\\NuGet\\NuGet.Config",
