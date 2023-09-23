@@ -116,3 +116,52 @@ SELECT * FROM Robinho.Pessoa WHERE CPF = @cpf
 -- Substitua o campo da variavel para utilizar o select
 
 --Exec 9
+
+CREATE SCHEMA FunClube
+GO
+
+CREATE TABLE FunClube.Endereco(
+	EnderecoID int primary key IDENTITY(1,1),
+	Cidade varchar(50),
+	CEP varchar(50)
+)
+CREATE TABLE FunClube.Organizadores(
+	OrganizadorID int primary key IDENTITY(1,1),
+	Nome varchar(100)
+)
+CREATE TABLE FunClube.Associado(
+	SocioID int primary key IDENTITY(1,1),
+	Nome varchar(100),
+	RG char(10),
+	CPF char(11),
+	EnderecoID int,
+	TipoSocioID int,
+	FOREIGN KEY (EnderecoID) REFERENCES FunClube.Endereco(EnderecoID),
+	FOREIGN KEY (TipoSocioID) REFERENCES FunClube.TipoSocio(TipoSocioID)
+)
+CREATE TABLE FunClube.Show(
+	ShowID int primary key IDENTITY(1,1),
+	PrecoEngreco int,
+	EnderecoID int,
+	OrganizadorID int,
+	ArtistaID int,
+	FOREIGN KEY (EnderecoID) REFERENCES FunClube.Endereco(EnderecoID),
+	FOREIGN KEY (OrganizadorID) REFERENCES FunClube.Organizadores(OrganizadorID),
+	FOREIGN KEY (ArtistaID) REFERENCES FunClube.Artista(ArtistaID)
+)
+CREATE TABLE FunClube.Artista(
+	ArtistaID int primary key IDENTITY(1,1),
+	Nome varchar(100)
+)
+CREATE TABLE FunClube.TipoSocio(
+	TipoSocioID int primary key IDENTITY(1,1),
+	Tipo varchar(50)
+)
+CREATE TABLE FunClube.ShowsAssistidos(
+	SocioID int,
+	ShowID int,
+	DataAssistido date,
+	PRIMARY KEY(SocioID, ShowID),
+	FOREIGN KEY (SocioID) REFERENCES FunClube.Associado(SocioID),
+	FOREIGN KEY (ShowID) REFERENCES FunClube.Show(ShowID)
+)
