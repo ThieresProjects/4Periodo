@@ -1,0 +1,6 @@
+C:\_Repository\4Periodo\H1\Prova\Parte2\Prova.WebApi\obj\Debug\net6.0\Prova.WebApi.csproj.AssemblyReference.cache
+C:\_Repository\4Periodo\H1\Prova\Parte2\Prova.WebApi\obj\Debug\net6.0\Prova.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Repository\4Periodo\H1\Prova\Parte2\Prova.WebApi\obj\Debug\net6.0\Prova.WebApi.AssemblyInfoInputs.cache
+C:\_Repository\4Periodo\H1\Prova\Parte2\Prova.WebApi\obj\Debug\net6.0\Prova.WebApi.AssemblyInfo.cs
+C:\_Repository\4Periodo\H1\Prova\Parte2\Prova.WebApi\obj\Debug\net6.0\Prova.WebApi.csproj.CoreCompileInputs.cache
+C:\_Repository\4Periodo\H1\Prova\Parte2\Prova.WebApi\obj\Debug\net6.0\Prova.WebApi.MvcApplicationPartsAssemblyInfo.cache

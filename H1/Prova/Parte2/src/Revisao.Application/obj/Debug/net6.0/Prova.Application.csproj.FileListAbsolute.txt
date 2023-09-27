@@ -1,0 +1,5 @@
+C:\_Repository\4Periodo\H1\Prova\Parte2\src\Revisao.Application\obj\Debug\net6.0\Prova.Application.csproj.AssemblyReference.cache
+C:\_Repository\4Periodo\H1\Prova\Parte2\src\Revisao.Application\obj\Debug\net6.0\Prova.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Repository\4Periodo\H1\Prova\Parte2\src\Revisao.Application\obj\Debug\net6.0\Prova.Application.AssemblyInfoInputs.cache
+C:\_Repository\4Periodo\H1\Prova\Parte2\src\Revisao.Application\obj\Debug\net6.0\Prova.Application.AssemblyInfo.cs
+C:\_Repository\4Periodo\H1\Prova\Parte2\src\Revisao.Application\obj\Debug\net6.0\Prova.Application.csproj.CoreCompileInputs.cache

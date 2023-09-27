@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/adz3WKCOMeOEfbddv8UMZehHZ7Pcg+89l2PjFb8wCzPMtIYK1IqtIKXrLOlTPqNObJ598FelxDK5D5RzFQgA==",
+  "success": true,
+  "projectFilePath": "C:\\_Repository\\4Periodo\\H1\\Prova\\Parte2\\src\\Revisao.Data\\Prova.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thier_2gt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\thier_2gt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\thier_2gt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
