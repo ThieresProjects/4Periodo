@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9opY0bYYbBifuZttirkCGZUkrDsbkJ885VVUuJFzYn4fSC4DV/EiI9fN6qatD9dNToJ32PYumZZPCM0ermIwoQ==",
+  "success": true,
+  "projectFilePath": "C:\\_Repository\\4Periodo\\H1\\Prova\\Parte2\\src\\Revisao.Application\\Prova.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thier_2gt\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\thier_2gt\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\thier_2gt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\thier_2gt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\thier_2gt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

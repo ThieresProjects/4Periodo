@@ -26,6 +26,16 @@
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
         }
+      },
+      "Prova.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Prova.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Prova.Domain.dll": {}
+        }
       }
     }
   },
@@ -113,11 +123,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Prova.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Revisao.Domain/Prova.Domain.csproj",
+      "msbuildProject": "../Revisao.Domain/Prova.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "AutoMapper >= 12.0.1"
+      "AutoMapper >= 12.0.1",
+      "Prova.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -146,7 +162,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\_Repository\\4Periodo\\H1\\Prova\\Parte2\\src\\Revisao.Domain\\Prova.Domain.csproj": {
+              "projectPath": "C:\\_Repository\\4Periodo\\H1\\Prova\\Parte2\\src\\Revisao.Domain\\Prova.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
