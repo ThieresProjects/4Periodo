@@ -7,8 +7,9 @@
     "\\H1\\Prova\\Parte1\\WebApi",
     "\\H1\\Prova\\Parte1\\WebApi\\WebApi",
     "\\H1\\Prova\\Parte1\\WebApi\\WebApi\\Models",
-    "\\H1\\Prova\\Parte2"
+    "\\H1\\Prova\\Parte2",
+    "\\H1\\Prova\\Parte2\\src"
   ],
-  "SelectedNode": "\\H1\\Prova\\Parte2\\Prova.sln",
+  "SelectedNode": "\\H1\\Prova\\Parte1\\WebApi\\WebApi\\Models\\PapaiNoelViewModel.cs",
   "PreviewInSolutionExplorer": false
 }
