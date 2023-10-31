@@ -3,6 +3,7 @@ using System.Runtime.ConstrainedExecution;
 using System.Runtime.Intrinsics.X86;
 using System.Text.RegularExpressions;
 using _2L1.Domain.Interfaces.Services;
+using _2L1.Application.ViewModels;
 
 namespace _2L1.Presentation.Controllers
 {
@@ -23,40 +24,59 @@ namespace _2L1.Presentation.Controllers
         //  ObterPorId -> Buscar os dados de um produto específico pelo CodigoId
         //  ObterPorNome -> Busca todos os produtos que contêm a palavra buscada, exemplo, buscar todos produtos tem no nome a palavra IPHone
         [HttpPatch]
-        public IActionResult Reativar()
+        [Route("Reativar")]
+        public IActionResult Reativar(int codProduto)
         {
+            ProdutoViewModel result = _produtoService.GetOne(codProduto);
+            result.Ativo = true;
+            _produtoService.Update(result);
             return Ok();
         }
         [HttpPatch]
-        public IActionResult AlterarPreco()
+        [Route("AlterarPreco")]
+        public IActionResult AlterarPreco(int codProduto, decimal preco)
         {
+            ProdutoViewModel result = _produtoService.GetOne(codProduto);
+            result.Valor = preco;
+            _produtoService.Update(result);
             return Ok();
         }
         [HttpPatch]
-        public IActionResult AtualizarEstoque()
+        [Route("AtualizarEstoque")]
+        public IActionResult AtualizarEstoque(int codProduto, int estoque)
         {
+            ProdutoViewModel result = _produtoService.GetOne(codProduto);
+            result.Estoque = estoque;
+            _produtoService.Update(result);
             return Ok();
         }
         [HttpPut]
-        public IActionResult Atualizar()
+        [Route("Atualizar")]
+        public IActionResult Atualizar(ProdutoViewModel produto)
         {
+            _produtoService.Update(produto);
             return Ok();
         }
         [HttpGet]
-        public IActionResult ObterPorId()
+        [Route("ObterPorId")]
+        public ProdutoViewModel ObterPorId(int codProduto)
         {
-            return Ok();
+            ProdutoViewModel result = _produtoService.GetOne(codProduto);
+            return result;
         }
         [HttpGet]
-        public IActionResult ObterPorNome()
+        [Route("ObterPorNome")]
+        public ProdutoViewModel ObterPorNome(string nome)
         {
-            return Ok();
+            ProdutoViewModel result = _produtoService.GetOneByName(nome);
+            return result;
         }
         [HttpGet]
         [Route("")]
-        public IActionResult GetAll()
+        public IEnumerable<ProdutoViewModel> GetAll()
         {
-            return Ok();
+            IEnumerable<ProdutoViewModel> result = _produtoService.GetAll();
+            return result;
         }
 
     }

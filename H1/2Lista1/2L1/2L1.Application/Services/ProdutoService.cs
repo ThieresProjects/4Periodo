@@ -16,5 +16,25 @@ namespace _2L1.Application.Services
         {
             _produtoRepository = produtoRepository;
         }
+
+        public IEnumerable<dynamic> GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        public dynamic GetOne(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public dynamic GetOneByName(string name)
+        {
+            throw new NotImplementedException();
+        }
+
+        public HttpRequestMessage Update(dynamic id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
