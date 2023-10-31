@@ -1,0 +1,14 @@
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\bin\Debug\net6.0\2L1.Domain.deps.json
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\bin\Debug\net6.0\2L1.Domain.dll
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\bin\Debug\net6.0\2L1.Domain.pdb
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\obj\Debug\net6.0\2L1.Domain.csproj.AssemblyReference.cache
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\obj\Debug\net6.0\2L1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\obj\Debug\net6.0\2L1.Domain.AssemblyInfoInputs.cache
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\obj\Debug\net6.0\2L1.Domain.AssemblyInfo.cs
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\obj\Debug\net6.0\2L1.Domain.csproj.CoreCompileInputs.cache
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\obj\Debug\net6.0\2L1.Domain.dll
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\obj\Debug\net6.0\refint\2L1.Domain.dll
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\obj\Debug\net6.0\2L1.Domain.pdb
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\obj\Debug\net6.0\ref\2L1.Domain.dll
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\bin\Debug\net6.0\2L1.Domain.runtimeconfig.json
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Domain\obj\Debug\net6.0\2L1.Domain.genruntimeconfig.cache

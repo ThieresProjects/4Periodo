@@ -2,14 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\H1",
-    "\\H1\\Prova",
-    "\\H1\\Prova\\Parte1",
-    "\\H1\\Prova\\Parte1\\WebApi",
-    "\\H1\\Prova\\Parte1\\WebApi\\WebApi",
-    "\\H1\\Prova\\Parte1\\WebApi\\WebApi\\Models",
-    "\\H1\\Prova\\Parte2",
-    "\\H1\\Prova\\Parte2\\src"
+    "\\H1\\2Lista1"
   ],
-  "SelectedNode": "\\H1\\Prova\\Parte1\\WebApi\\WebApi\\Models\\PapaiNoelViewModel.cs",
+  "SelectedNode": "\\H1\\2Lista1",
   "PreviewInSolutionExplorer": false
 }

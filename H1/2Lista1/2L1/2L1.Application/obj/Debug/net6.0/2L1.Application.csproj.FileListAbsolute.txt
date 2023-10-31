@@ -1,0 +1,12 @@
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\bin\Debug\net6.0\2L1.Application.deps.json
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\bin\Debug\net6.0\2L1.Application.dll
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\bin\Debug\net6.0\2L1.Application.pdb
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\obj\Debug\net6.0\2L1.Application.csproj.AssemblyReference.cache
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\obj\Debug\net6.0\2L1.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\obj\Debug\net6.0\2L1.Application.AssemblyInfoInputs.cache
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\obj\Debug\net6.0\2L1.Application.AssemblyInfo.cs
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\obj\Debug\net6.0\2L1.Application.csproj.CoreCompileInputs.cache
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\obj\Debug\net6.0\2L1.Application.dll
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\obj\Debug\net6.0\refint\2L1.Application.dll
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\obj\Debug\net6.0\2L1.Application.pdb
+C:\_Repository\4Periodo\H1\2Lista1\2L1\2L1.Application\obj\Debug\net6.0\ref\2L1.Application.dll
