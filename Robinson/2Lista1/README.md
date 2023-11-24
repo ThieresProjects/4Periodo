@@ -40,7 +40,7 @@ Select (*)
         WHERE 1=1 
             AND Nome LIKE 'Cruz%'
 
-Ãgregação
+Agregação
 
 10 - SELECT * 
         FROM Projeto AS p
